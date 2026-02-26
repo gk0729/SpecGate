@@ -28,3 +28,7 @@
 ## 貢獻方式
 
 請先閱讀 `CONTRIBUTING.md`，依提案與兼容規則提交 PR。
+
+## Release 範本
+
+- `docs/releases/RELEASE_TEMPLATE.md`（可直接複製到任何倉庫使用）
